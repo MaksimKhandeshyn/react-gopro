@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-gopro/static/css/main.f855e6bc.css",
+    "main.js": "/react-gopro/static/js/main.3f418daf.js",
+    "index.html": "/react-gopro/index.html",
+    "main.f855e6bc.css.map": "/react-gopro/static/css/main.f855e6bc.css.map",
+    "main.3f418daf.js.map": "/react-gopro/static/js/main.3f418daf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.3f418daf.js"
+  ]
+}
