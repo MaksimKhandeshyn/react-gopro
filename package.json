@@ -40,6 +40,10 @@
       "last 1 safari version"
     ]
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaksimKhandeshyn/react-gopro.git"
+  },
   "devDependencies": {
     "gh-pages": "^6.3.0"
   }
